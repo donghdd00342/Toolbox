@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-111", "author": "typicode-111" },
+    { "id": 2, "title": "json-222", "author": "typicode-222" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some 111", "postId": 1 },
+    { "id": 2, "body": "some 222", "postId": 1 },
+    { "id": 3, "body": "some comment 111", "postsId": 2 },
+    { "id": 4, "body": "some comment 222", "postsId": 2 },
+    { "id": 5, "body": "some comment 222", "postsId": 2 }
+  ],
+  "profile": { "name": "typicode" }
+}
